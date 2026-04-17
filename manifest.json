@@ -1,23 +1,23 @@
 {
   "name": "Zev",
   "short_name": "Zev",
-  "description": "A minimal personal progress engine.",
-  "start_url": "./index.html",
+  "description": "Minimal progress engine.",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#050507",
   "theme_color": "#050507",
   "icons": [
     {
-      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' fill='%230c0c0e'/%3E%3Cpath d='M50 142 L142 50' stroke='white' stroke-width='12' stroke-linecap='round'/%3E%3Cpath d='M142 142 L142 50 L50 50' stroke='white' stroke-width='12' stroke-linecap='round' fill='none'/%3E%3C/svg%3E",
+      "src": "icon-192.png",
       "sizes": "192x192",
-      "type": "image/svg+xml",
+      "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' fill='%230c0c0e'/%3E%3Cpath d='M120 392 L392 120' stroke='white' stroke-width='32' stroke-linecap='round'/%3E%3Cpath d='M392 392 L392 120 L120 120' stroke='white' stroke-width='32' stroke-linecap='round' fill='none'/%3E%3C/svg%3E",
+      "src": "icon-512.png",
       "sizes": "512x512",
-      "type": "image/svg+xml",
+      "type": "image/png",
       "purpose": "any maskable"
     }
   ]
-}
+}
